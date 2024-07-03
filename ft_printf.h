@@ -6,7 +6,7 @@
 /*   By: xmatute- <xmatute-@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/30 12:30:30 by xmatute-          #+#    #+#             */
-/*   Updated: 2022/09/30 13:11:46 by xmatute-         ###   ########.fr       */
+/*   Updated: 2024/07/02 16:34:41 by xmatute-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,6 @@
 
 # include	<stdarg.h>
 # include	<unistd.h>
-//#include	<stdio.h>
 
 void			ft_putnbr_base_vp(unsigned long long nbr, char *base);
 int				case_(char c, va_list va);
